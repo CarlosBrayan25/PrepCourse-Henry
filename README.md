@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del prepcourse de henry
+este es mi primer repositorio para clonarlo desde GitHub a mi repositorio local.
